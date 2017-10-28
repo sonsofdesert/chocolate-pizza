@@ -1,0 +1,45 @@
+#forkknife {
+  background-color: white;
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+}
+#logo {
+    text-align: center;
+    display: block;
+    margin: 0px auto;
+}
+
+#delicious {
+  display: inline-block;
+  width: 0 auto;
+}
+
+.toprighticons {
+  background-color: white;
+  display: inline-block;
+  margin-left: 50%;
+  padding: 2%;
+}
+
+#chocolatepizza {
+  font-family: 'Francois One', sans-serif;
+  font-size: 30px;
+  margin-right: 58%;
+  text-align: center;
+}
+
+#printer {
+  text-align: right;
+}
+
+.pdiv {
+  display: inline-block;
+  width: 80%;
+  text-align: center;
+}
+
+.p  {
+  display: inline;
+  text-align: center;
+  font-style: verdana;
+}
