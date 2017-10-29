@@ -44,4 +44,10 @@
   font-style: verdana;
 }
 
-Bogus improvements here!
+#paper {
+  margin: 10%;
+}
+
+#ingredients {
+  margin: 10%;
+}
