@@ -49,5 +49,6 @@
 }
 
 #ingredients {
-  margin: 10%;
+  position: absolute; right: 40%; bottom: -145%;
+  background-image: url("img/list-bg.png");
 }
